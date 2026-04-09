@@ -13,10 +13,13 @@ How to run it
 2.	Install dependencies:
 pip install pandas numpy matplotlib seaborn plotly jupyter openpyxl
 3.	Run the notebook: Open Bank_Loan_Project.ipynb in Jupyter/VS Code and run the cells to see the analysis step-by-step. Or just run the script version: python bank_loan_project.py
-4.	
+
 Quick Insights
 •	Most loans are actually "Good" (Fully Paid or Current).
+
 •	I looked at things like Employment Length and Purpose (e.g., debt consolidation) to see if they impact repayment.
+
 •	You can see month-over-month trends in the visuals.
+
 Feel free to poke around the code!
 
